@@ -34,7 +34,7 @@ python train.py
 
 2. Encode the appearance of the objects
 ```bash
-python scripts/encode_features --checkpoint models/TRAINED_MODEL_CHECKPOINT
+python scripts/encode_features.py --checkpoint models/TRAINED_MODEL_CHECKPOINT
 ```
 
 ### References

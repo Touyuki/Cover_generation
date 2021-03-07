@@ -1,5 +1,6 @@
 This is a cover image generation system based on nerual networks. Here are some images we generated:
 
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/1.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/2.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/3.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/4.png)
@@ -13,6 +14,11 @@ The structure is like:
 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/SRnet.png)
 
+You can use this model by this command
+```bash
+python scripts/gui/simple-server.py --checkpoint models/YOUR_MODEL_CHECKPOINT 
+```
+We uploaded a pretrained weight file. You can download it and try the model. The verification code is ""
 
 
 

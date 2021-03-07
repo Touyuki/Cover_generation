@@ -31,7 +31,6 @@ We uploaded a pretrained weight file. You can download it and try the model. The
 ```bash
 python train.py
 ```
-
 2. Encode the appearance of the objects
 ```bash
 python scripts/encode_features --checkpoint models/TRAINED_MODEL_CHECKPOINT

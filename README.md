@@ -14,15 +14,30 @@ The structure is like:
 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/SRnet.png)
 
+
+### Test
+
 You can use this model by this command
 ```bash
 python scripts/gui/simple-server.py --checkpoint models/YOUR_MODEL_CHECKPOINT 
 ```
 We uploaded a pretrained weight file. You can download it and try the model. The verification code is ""
 
+### Train
 
+(Before the training you should download the coco images and annotation files ,and put them into datasets/coco/images/ and  datasets/coco/images/annatations/ . If you just want to run the model for simple images but not book covers, you can use the original model https://github.com/ashual/scene_generation Their instruction is more detailed.)
 
-References
+1.Train the network.
+```bash
+python train.py
+```
+
+2. Encode the appearance of the objects
+```bash
+python scripts/encode_features --checkpoint models/TRAINED_MODEL_CHECKPOINT
+```
+
+### References
 
 We made use of the work of scene_generation(https://arxiv.org/abs/1909.05379 ICCV 2019). We modified their model mainly by adding an extra cover image discriminator and used another SRnet to generate text image with better quality. The pretrained SRnet is from https://github.com/Niwhskal/SRNet.
 

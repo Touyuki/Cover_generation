@@ -27,10 +27,11 @@ We uploaded a pretrained weight file. You can download it and try the model. The
 
 (Before the training you should download the coco images and annotation files, and put them into datasets/coco/images/ and  datasets/coco/images/annatations/)
 
-1.Train the network.
+1.Train the network
 ```bash
 python train.py
 ```
+
 2. Encode the appearance of the objects
 ```bash
 python scripts/encode_features --checkpoint models/TRAINED_MODEL_CHECKPOINT

@@ -25,7 +25,7 @@ We uploaded a pretrained weight file. You can download it and try the model. The
 
 ### Train
 
-(Before the training you should download the coco images and annotation files ,and put them into datasets/coco/images/ and  datasets/coco/images/annatations/ . If you just want to run the model for simple images but not book covers, you can use the original model https://github.com/ashual/scene_generation Their instruction is more detailed.)
+(Before the training you should download the coco images and annotation files, and put them into datasets/coco/images/ and  datasets/coco/images/annatations/)
 
 1.Train the network.
 ```bash

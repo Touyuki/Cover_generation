@@ -2,7 +2,20 @@ This is a cover image generation system based on nerual networks. Here are some 
 
 <img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout01.png" width="120" />
 <img src="https://github.com/Touyuki/Cover_generation/blob/main/images/1.png" width="120" />
-
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout02.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/2.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout03.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/3.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout04.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/4.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout05.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/5.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout06.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/6.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout07.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/7.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout08.png" width="120" />
+<img src="https://github.com/Touyuki/Cover_generation/blob/main/images/8.png" width="120" />
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout02.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/2.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout03.png)

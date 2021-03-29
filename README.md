@@ -1,6 +1,6 @@
 This is a cover image generation system based on nerual networks. Here are some images we generated:
  
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout01.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout01.png) It is a sample of the input layout scene (for the first image )
 
 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/01.png)

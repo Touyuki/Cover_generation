@@ -9,14 +9,14 @@ This is a cover image generation system based on nerual networks. Here are some 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout07.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout08.png)
 
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/1.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/2.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/3.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/4.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/5.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/6.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/7.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/8.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/01.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/02.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/03.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/04.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/05.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/06.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/07.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/08.png)
   
 
 The structure is like:

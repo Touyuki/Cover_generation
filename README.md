@@ -9,7 +9,7 @@ This is a cover image generation system based on nerual networks. Here are some 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/07.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/08.png)
   
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout01.png) It is a sample of the input layout scene for the first image, the text of the title is "Wind".
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout1.png) It is a sample of the input layout scene for the first image, the text of the title is "Wind".
 
 The structure is like:
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/Structure.png)

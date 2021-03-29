@@ -1,13 +1,13 @@
 This is a cover image generation system based on nerual networks. Here are some images we generated:
  
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout01.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout02.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout03.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout04.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout05.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout06.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout07.png)
-![image](https://github.com/Touyuki/Cover_generation/blob/main/images/good%20layout08.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout01.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout02.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout03.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout04.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout05.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout06.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout07.png)
+![image](https://github.com/Touyuki/Cover_generation/blob/main/images/layout08.png)
 
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/01.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/02.png)

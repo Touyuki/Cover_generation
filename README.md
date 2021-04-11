@@ -23,7 +23,8 @@ You can use this model by this command
 ```bash
 python scripts/gui/simple-server.py --checkpoint models/YOUR_MODEL_CHECKPOINT 
 ```
-We uploaded a pretrained weight file. You can download it and try the model. The verification code is ""
+We uploaded a pretrained weight file and processed appearance features. You can download them and try the model. All the files should be put in the same folder. 
+https://drive.google.com/drive/u/1/folders/1m4y_AS0eA3duAi1GmIrK81Wvjr3sHmcg
 
 ### Train
 

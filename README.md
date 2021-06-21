@@ -54,3 +54,5 @@ In our system we only want to generate cover images. However this model can be a
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/p2.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/p3.png)
 ![image](https://github.com/Touyuki/Cover_generation/blob/main/images/p4.png)
+
+The project is introduced detailedly at paper:https://arxiv.org/abs/2105.11088
